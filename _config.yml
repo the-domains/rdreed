@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3446808
+  brandStrength: 0.9893617
+  lightness: 0.806383
+  brandColors:
+    - '#FFFFFF'
+    - '#393939'
+    - '#000000'
+    - '#C6C6C6'
+    - '#17C51F'
+  rhythmicContrast: 0.7489362
+typography_spectrum: 0.8170213
+name: RDReed
