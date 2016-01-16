@@ -2,6 +2,7 @@ name: RDReed
 favicon: null
 layout_spectrum: 0.44701
 typography_spectrum: 0.8170213
+title: rdreed
 cta:
   domain: null
   bucket: null
