@@ -1,14 +1,28 @@
-layout_spectrum: 1
+name: RDReed
+favicon: null
+layout_spectrum: 0.44701
+typography_spectrum: 0.8170213
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3446808
-  brandStrength: 0.9893617
-  lightness: 0.806383
   brandColors:
     - '#FFFFFF'
     - '#393939'
     - '#000000'
     - '#C6C6C6'
     - '#17C51F'
+  brandStrength: 0.9893617
+  lightness: 0.806383
+  saturation: 0.3446808
   rhythmicContrast: 0.7489362
-typography_spectrum: 0.8170213
-name: RDReed
+purpose: []
