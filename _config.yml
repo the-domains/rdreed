@@ -1,7 +1,7 @@
 name: RDReed
 favicon: null
-layout_spectrum: 0.44701
-typography_spectrum: 0.8170213
+layout_spectrum: 0.51809
+typography_spectrum: 0.49554
 title: rdreed
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefef4'
-    - '#020307'
-    - '#778f2f'
-    - '#4f3c36'
-    - '#d1c593'
-  brandStrength: 0.25
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#fff7f5'
+    - '#e0ddcb'
+    - '#899987'
+    - '#3b3a38'
+    - '#62766d'
+  brandStrength: 0.1875
+  lightness: 0.9375
+  saturation: 0.9375
+  rhythmicContrast: 0.25
 purpose: []
